@@ -2,7 +2,7 @@
 
 This is kind-of-fork of the OpenAI Example WebServer for running request against GPT4 but modified to instead be an UI making Dall-E3 usable via the Enterprise API.
 
-##What are the advantages?
+## What are the advantages?
 - It's cheaper then the GPT Enterprise and GPT+ subscription
 - The output quality is higher because the HD flag can be set by default (otherwise OpenAI decides it based on whatever)
 - There is no rate limit (currently OpenAI limits you to a couple of images per hour)
@@ -53,9 +53,8 @@ This is kind-of-fork of the OpenAI Example WebServer for running request against
    ```
 
 
-You should now be able to access the app at [http://localhost:3000/image-gen/](http://localhost:3000/image-gen/)! 
+You should now be able to access the app at [http://localhost:3000/image-gen/](http://localhost:3000/image-gen/)
 
-For the full context behind this example app, check out the [tutorial](https://platform.openai.com/docs/quickstart)
 
 ## For Debugging and development
 
