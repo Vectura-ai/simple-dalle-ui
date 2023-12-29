@@ -7,6 +7,20 @@ This is kind-of-fork of the OpenAI Example WebServer for running request against
 - The output quality is higher because the HD flag can be set by default (otherwise OpenAI decides it based on whatever)
 - There is no rate limit (currently OpenAI limits you to a couple of images per hour)
 
+## Screenshots & Usage
+
+<div align="center">
+  <img src="usage-1.png" width="550px">
+  <br>
+  <em>A simple UI that by defaults sends requests vanilla to the DALL-E3 API</em>
+</div>
+
+<div align="center">
+  <img src="usage-2.png" width="450px"> <img src="usage-3.png" width="450px">
+  <br>
+  <em>The 'Advanced settings' allow for invoking GPT-4 apply advanced API flags</em>
+</div>
+
 
 ## Setup - Instruction from the original source 
 
