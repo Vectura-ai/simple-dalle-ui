@@ -10,13 +10,13 @@ This is kind-of-fork of the OpenAI Example WebServer for running request against
 ## Screenshots & Usage
 
 <div align="center">
-  <img src="usage-1.png" width="550px">
+  <img src="usage-1.png" width="50%">
   <br>
   <em>A simple UI that by defaults sends requests vanilla to the DALL-E3 API</em>
 </div>
 
 <div align="center">
-  <img src="usage-2.png" width="450px"> <img src="usage-3.png" width="450px">
+  <img src="usage-2.png" width="30%"> <img src="usage-3.png" width="30%">
   <br>
   <em>The 'Advanced settings' allow for invoking GPT-4 apply advanced API flags</em>
 </div>
