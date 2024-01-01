@@ -66,10 +66,11 @@ This is kind-of-fork of the OpenAI Example WebServer for running request against
    $ npm run start
    ```
 
-
 You should now be able to access the app at [http://localhost:3000/image-gen/](http://localhost:3000/image-gen/)
-
 
 ## For Debugging and development
 
 Start of by setting `debug` to true in `generate.js`
+
+# If you enjoy this app checkout our AI newsletter!
+At Vectura.ai we are developing AI solutions for SME's and trying to open-source most of them or at least part of the toolchain. If you want to learn about tipps and tricks, get to know new tools sign-up for our Newsletter (at least once per month) here: [Vectura Newsletter](https://bit.ly/vectura)
